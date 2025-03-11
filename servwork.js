@@ -8,7 +8,9 @@ self.addEventListener('install', (event) => {
                 'script.js',
                 'manifest.json',
                 'multimedia/logo.png',
-                'multimedia/ejemplo_video.mp4'
+                'multimedia/logo-512.png',
+                'multimedia/splash.png',
+                'multimedia/Video.mp4'
             ]);
         })
     );
